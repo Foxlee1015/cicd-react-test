@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cicd-react-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cicd-react-test/static/js/main.dd44287c.chunk.js",
+    "main.js.map": "/cicd-react-test/static/js/main.dd44287c.chunk.js.map",
+    "runtime-main.js": "/cicd-react-test/static/js/runtime-main.c6c253ca.js",
+    "runtime-main.js.map": "/cicd-react-test/static/js/runtime-main.c6c253ca.js.map",
+    "static/js/2.b9deffc7.chunk.js": "/cicd-react-test/static/js/2.b9deffc7.chunk.js",
+    "static/js/2.b9deffc7.chunk.js.map": "/cicd-react-test/static/js/2.b9deffc7.chunk.js.map",
+    "index.html": "/cicd-react-test/index.html",
+    "precache-manifest.275817018564b66cfd7c643449e1fc9a.js": "/cicd-react-test/precache-manifest.275817018564b66cfd7c643449e1fc9a.js",
+    "service-worker.js": "/cicd-react-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cicd-react-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b9deffc7.chunk.js.LICENSE.txt": "/cicd-react-test/static/js/2.b9deffc7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cicd-react-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6c253ca.js",
+    "static/js/2.b9deffc7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dd44287c.chunk.js"
+  ]
+}
